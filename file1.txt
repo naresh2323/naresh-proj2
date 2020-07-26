@@ -1,2 +1,4 @@
 1st line added in the master.
 2nd line added from the b1.
+3rd line added to b1
+4th line added to branch for 'git diff'
